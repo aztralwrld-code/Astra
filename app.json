@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "Astra Primeforge Mobile",
+    "slug": "astra-primeforge-mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "astra-primeforge",
+    "jsEngine": "hermes",
+    "platforms": ["ios", "android"],
+    "experiments": {
+      "tsconfigPaths": true
+    }
+  }
+}
